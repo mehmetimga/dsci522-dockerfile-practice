@@ -2,6 +2,11 @@
 
 This project creates a Docker image for data science project.
 
+## Links
+
+- **GitHub Repository**: [https://github.com/mehmetimga/dsci522-dockerfile-practice](https://github.com/mehmetimga/dsci522-dockerfile-practice)
+- **DockerHub Image**: [https://hub.docker.com/r/mehmetimga/dsci522-dockerfile-practice](https://hub.docker.com/r/mehmetimga/dsci522-dockerfile-practice)
+
 ## What is Docker?
 
 Docker is a tool that packages software into containers. A container is like a box that has everything your code needs to run. It works the same way on any computer.
